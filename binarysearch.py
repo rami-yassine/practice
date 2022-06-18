@@ -13,3 +13,4 @@ def elementSearch( lista, num ):
         else:
             low = mid + 1
     return False        
+added line
